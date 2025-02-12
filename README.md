@@ -7,3 +7,5 @@ The specific data file processed by the script is 3999_individuals_GWA6_SER10_an
 
 Required packages to run that script:
 readxl and ggplot2
+
+DOI for this repository is [![DOI](https://zenodo.org/badge/931489012.svg)](https://doi.org/10.5281/zenodo.14860919)
