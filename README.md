@@ -5,5 +5,4 @@ The relevant data can be requested as "GWA123456 publication data" from CHDI
 The specific data file processed by the script is 3999_individuals_GWA6_SER10_and_vars_associated_with_raw_phenotype.xlsx
 
 Required packages to run that script:
-readxl
-ggplot2
+readxl and ggplot2
